@@ -11,7 +11,6 @@ Dokumentasi
 
 	POST http://localhost:5152/players  
 	Content-Type: application/json  
-  
 {  
       
 	"name": "Marselino Ferdinan",  
