@@ -1,6 +1,6 @@
 Dokumentasi
 
-Untuk menjalankan program buka terminal dan  masuk ke folder player list dengan cara type “cd playerlist.api” kemudian type  “dotnet run”
+## Untuk menjalankan program buka terminal dan  masuk ke folder player list dengan cara type “cd playerlist.api” kemudian type  “dotnet run”
 Untuk send request GET api/players buka file PlayerList.http dan send request dengan "GET http://localhost:5152/players"
 Untuk menjalankan filter birthplace menggunakan :
 "GET http://localhost:5152/players/birthplace/Europe"
